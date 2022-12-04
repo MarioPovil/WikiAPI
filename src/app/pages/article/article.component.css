@@ -1,0 +1,19 @@
+.article {
+  padding:1rem;
+  border: 2px solid #292626;
+  margin: 3px;
+  box-shadow: 2px 2px 1px black;
+  background-color: #7398de;
+  color: white;
+  border-radius: 5px;
+}
+  a{
+      font-size: 1.5rem;
+      transition: all 0.3s ease-in 0.2s;
+      color: rgb(34, 31, 212);
+
+  }
+      a:hover {
+          background: #628fe4;
+          font-size: 1.7rem;
+  }
